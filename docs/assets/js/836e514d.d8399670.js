@@ -1,0 +1,1 @@
+(self.webpackChunkwoshicai=self.webpackChunkwoshicai||[]).push([[152],{3986:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"first-view","name":"first-view","count":1,"permalink":"/blog/tags/first-view"}')}}]);
