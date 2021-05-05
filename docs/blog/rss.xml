@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>woshicai's Site Blog</title>
+        <title>Woshicai's Site Blog</title>
         <link>https://your-docusaurus-test-site.com/blog</link>
-        <description>woshicai's Site Blog</description>
-        <lastBuildDate>Wed, 05 May 2021 00:00:00 GMT</lastBuildDate>
+        <description>Woshicai's Site Blog</description>
+        <lastBuildDate>Wed, 05 May 2021 14:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[PlaceHolder]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/placeHolder</link>
-            <guid>placeHolder</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Wed, 05 May 2021 14:22:02 GMT</pubDate>
             <description><![CDATA[Use github page & docusaurus to write my blog.]]></description>
         </item>
     </channel>
