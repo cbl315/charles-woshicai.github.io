@@ -4,9 +4,16 @@
         <title>Woshicai's Site Blog</title>
         <link>https://your-docusaurus-test-site.com/blog</link>
         <description>Woshicai's Site Blog</description>
-        <lastBuildDate>Wed, 05 May 2021 14:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 16:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Concurrency In Go]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/Concurrency In Go</link>
+            <guid>Concurrency In Go</guid>
+            <pubDate>Wed, 05 May 2021 16:16:32 GMT</pubDate>
+            <description><![CDATA[After reading the book Concurrency In Go, in order to better understand and remember what the book says, record key point about the book.]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://your-docusaurus-test-site.com/blog/welcome</link>
