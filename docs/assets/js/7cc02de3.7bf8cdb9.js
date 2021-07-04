@@ -1,0 +1,1 @@
+(self.webpackChunkwoshicai=self.webpackChunkwoshicai||[]).push([[258],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Concurrency In Go","permalink":"/blog/Concurrency In Go"},{"title":"Welcome","permalink":"/blog/welcome"}]}')}}]);
